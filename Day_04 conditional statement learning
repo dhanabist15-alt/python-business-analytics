@@ -1,0 +1,16 @@
+#Student result Checker
+
+name = input("Enter student name:")
+marks = int(inter(Entear marks:")
+if marks >= 80:
+    grade = "Distinction"
+elif marks >= 60:
+    grade = "First Division"
+elif marks >= 40:
+    grade = "pass"
+else:
+    grade = "fail"
+print(\n-----RESULT----)
+print("Name:", name)
+print("Marks:",marks)
+print("Grade:",grade)
