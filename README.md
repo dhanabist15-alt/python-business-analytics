@@ -6,6 +6,11 @@ My daily learning journey in Python and Business Analytics
          -Calculated revanue for each product
          -Computed total sales revanue using python
 ### Day 3: Controling flow and Logic Building
-          -leaned conditional statement (if, elif, else)
+          -learned conditional statement (if, elif, else)
           -used break and continue
           -practiced for loop and while loop
+#### Day 4:  Conditioanl Statement learning
+           -conditional statement (if, else, elif)
+           -user input
+           -Type conversion
+           -display grade
