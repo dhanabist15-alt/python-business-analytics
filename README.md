@@ -14,3 +14,10 @@ My daily learning journey in Python and Business Analytics
            -user input
            -Type conversion
            -display grade
+ ##### Day 5: learning Function
+             -define function
+             -excuate function
+             -simple calcutation
+           
+           
+           
