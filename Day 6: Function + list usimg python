@@ -1,0 +1,23 @@
+def show_numbers(numbers):
+    for n in numbers:
+        print(n)
+
+show_numbers([1, 2, 3, 4])
+# Function to find out sum
+def sum_list(numbers):
+    total = 0
+    for n in numbers:
+        total = total + n
+    return total
+
+result = sum_list([10, 20, 30])
+print("Total:", result)
+
+#Function to count items
+def count_items(items):
+    count = 0
+    for i in items:
+        count = count + 1
+    return count
+
+print(count_items([5, 10, 15]))
