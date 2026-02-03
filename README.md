@@ -18,6 +18,9 @@ My daily learning journey in Python and Business Analytics
              -define function
              -excuate function
              -simple calcutation
-           
+  ###### Day 6:learning Function and list
+          -define function
+          -using list
+          -calculate the program
            
            
