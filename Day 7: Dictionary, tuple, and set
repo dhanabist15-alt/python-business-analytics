@@ -1,0 +1,28 @@
+# Day 7: Dictionary, Tuple and Set
+
+# Dictionary
+student = {
+    "name": "Kristina",
+    "course": "Business Analytics"
+}
+
+print("Student Name:", student["name"])
+print("Course:", student["course"])
+
+
+# Tuple
+days = ("Monday", "Tuesday", "Wednesday")
+
+print("First Day:", days[0])
+print("Total Days:", len(days))
+
+
+# Set
+numbers = {1, 2, 3, 3, 4}
+
+print("Numbers Set:", numbers)
+
+
+
+
+print("Unique Skills:", skills_set)
