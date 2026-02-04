@@ -15,6 +15,7 @@ My daily learning journey in Python and Business Analytics
            -Type conversion
            -display grade
  ##### Day 5: learning Function
+ 
              -define function
              -excuate function
              -simple calcutation
@@ -22,5 +23,11 @@ My daily learning journey in Python and Business Analytics
           -define function
           -using list
           -calculate the program
+ ###### Day 7: Dictionary, tuple and set 
+            -dictionary : keyvalue pair, accessing and updating valur
+            -set : unique element, basic set operation
+            - tuple : Immutable data structure, indexing and length
+            
+            
            
            
