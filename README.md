@@ -29,5 +29,12 @@ My daily learning journey in Python and Business Analytics
             - tuple : Immutable data structure, indexing and length
             
             
-           
+###### Day 8: Python loop(for loop and while loop)
+             -print the number
+             -for loop
+             -while loop
+             -range
+             -break and continue
+             
+             
            
