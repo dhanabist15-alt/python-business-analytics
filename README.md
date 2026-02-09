@@ -35,6 +35,11 @@ My daily learning journey in Python and Business Analytics
              -while loop
              -range
              -break and continue
+##### Day 9 :Python function
+            - use function( def)
+            -print the number
+            -return value
+            -practice problem
              
              
            
