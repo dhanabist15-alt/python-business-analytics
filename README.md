@@ -40,6 +40,12 @@ My daily learning journey in Python and Business Analytics
             -print the number
             -return value
             -practice problem
+  #### Day 10: learning file input and output
+            -open a file
+            -read a file
+            -certain calculation
+            -practice questions
+            
              
              
            
