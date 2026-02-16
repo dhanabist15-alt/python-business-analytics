@@ -1,0 +1,45 @@
+#write a program to read the numbers and print their sum.
+with open("Example.txt","r")as file:
+    
+    total = 0
+    for line in file:
+        total += int(line.strip())
+print("sum is :",total)        
+
+#write a program to count the number of lines in the files.
+with open("Example.txt","r") as file:
+    count= 0
+    for line in file:
+        count += 1
+print("Count line:",count)  
+
+
+#write a program to read the number and print the difference.       
+with open("Example.txt","r") as file:
+    number = file.readlines()
+    num1 = int(number[0].strip())
+    num2 = int(number[1].strip())
+difference = num1 - num2    
+print("Diff is:", difference)           
+
+#writa a program to read the file anfd print only lines containing the word "today".
+with open("Example.txt","r") as file:
+    for line in file:
+        if "today"in line:
+            print(line.strip())
+
+
+# write a program that writes 10 random numbers into a file and then read to find largest.
+with open("Example.txt", "r") as file:
+    numbers =  [int(line.strip())for line in file]
+
+greatest = max(numbers)
+print("Greatest numbers is:", greatest)
+
+        
+#write a program that write 10 random numbers into file and then to find smallest.
+with open ("Example.txt", "r") as file:
+    numbers = [int(line.strip())for line in file]
+smallest = min(numbers)     
+print("Smallest numbers:", smalles)
+    
